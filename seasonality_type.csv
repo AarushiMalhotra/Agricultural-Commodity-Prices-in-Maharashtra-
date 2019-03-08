@@ -1,0 +1,952 @@
+Commodity,Seasonality Type
+Akole:bajri,Additive
+Akole:paddy-unhusked,Multiplicative
+Akole:wheat(husked),Multiplicative
+Akole:gram,Multiplicative
+Akole:soybean,Multiplicative
+Akole:onion,Multiplicative
+Jamkhed:bajri,Additive
+Jamkhed:wheat(husked),Additive
+Jamkhed:sorgum(jawar),Multiplicative
+Jamkhed:onion,Multiplicative
+Kopargaon:bajri,Multiplicative
+Kopargaon:wheat(husked),Multiplicative
+Kopargaon:sorgum(jawar),Multiplicative
+Kopargaon:maize,Multiplicative
+Kopargaon:gram,Multiplicative
+Kopargaon:soybean,Additive
+Kopargaon:onion,Multiplicative
+Newasa:wheat(husked),Additive
+Newasa-Ghodegaon:onion,Multiplicative
+Parner:onion,Additive
+Pathardi:bajri,Multiplicative
+Pathardi:wheat(husked),Additive
+Pathardi:sorgum(jawar),Multiplicative
+Pathardi:onion,Multiplicative
+Rahata:bajri,Additive
+Rahata:wheat(husked),Multiplicative
+Rahata:sorgum(jawar),Additive
+Rahata:maize,Multiplicative
+Rahata:gram,Multiplicative
+Rahata:pomegranate,Multiplicative
+Rahata:lemon,Additive
+Rahata:ginger (fresh),Multiplicative
+Rahata:potato,Multiplicative
+Rahata:ladies finger,Additive
+Rahata:bottle gourd,Additive
+Rahata:carrot,Multiplicative
+Rahata:ghevda,Multiplicative
+Rahata:cucumber,Additive
+Rahata:onion,Multiplicative
+Rahata:bitter gourd,Multiplicative
+Rahata:garlic,Additive
+Rahata:capsicum,Multiplicative
+Rahata:shevga,Multiplicative
+Rahata:tomato,Additive
+Rahata:small gourd,Multiplicative
+Rahata:brinjal,Additive
+Rahata:green chilli,Multiplicative
+Rahuri-Vambori:bajri,Multiplicative
+Rahuri-Vambori:wheat(husked),Additive
+Rahuri-Vambori:sorgum(jawar),Multiplicative
+Rahuri-Vambori:maize,Multiplicative
+Rahuri-Vambori:gram,Additive
+Rahuri-Vambori:soybean,Multiplicative
+Rahuri-Vambori:onion,Multiplicative
+Sangamner:bajri,Additive
+Sangamner:wheat(husked),Additive
+Sangamner:sorgum(jawar),Additive
+Sangamner:maize,Additive
+Sangamner:gram,Additive
+Sangamner:pomegranate,Multiplicative
+Sangamner:onion,Multiplicative
+Shevgaon:bajri,Multiplicative
+Shevgaon:wheat(husked),Multiplicative
+Shevgaon:sorgum(jawar),Additive
+Shevgaon:gram,Multiplicative
+Shevgaon-Bodhegaon:bajri,Multiplicative
+Shevgaon-Bodhegaon:wheat(husked),Multiplicative
+Shevgaon-Bodhegaon:sorgum(jawar),Additive
+Shrirampur:bajri,Multiplicative
+Shrirampur:wheat(husked),Multiplicative
+Shrirampur:sorgum(jawar),Multiplicative
+Shrirampur:maize,Additive
+Shrirampur:gram,Multiplicative
+Shrirampur:chikoo,Additive
+Shrirampur:pomegranate,Additive
+Shrirampur:water melon,Multiplicative
+Shrirampur:lemon,Additive
+Shrirampur:mosambi,Additive
+Shrirampur:papai,Multiplicative
+Shrirampur:ginger (fresh),Multiplicative
+Shrirampur:potato,Multiplicative
+Shrirampur:ladies finger,Multiplicative
+Shrirampur:bottle gourd,Multiplicative
+Shrirampur:flower,Multiplicative
+Shrirampur:cucumber,Multiplicative
+Shrirampur:onion,Additive
+Shrirampur:cabbage,Multiplicative
+Shrirampur:garlic,Additive
+Shrirampur:capsicum,Multiplicative
+Shrirampur:tomato,Additive
+Shrirampur:brinjal,Multiplicative
+Shrirampur:green chilli,Multiplicative
+Balapur:wheat(husked),Additive
+Balapur:sorgum(jawar),Additive
+Balapur:gram,Multiplicative
+Balapur:green gram,Multiplicative
+Balapur:pigeon pea (tur),Multiplicative
+Balapur:soybean,Multiplicative
+Murtizapur:wheat(husked),Multiplicative
+Murtizapur:gram,Additive
+Murtizapur:pigeon pea (tur),Additive
+Murtizapur:soybean,Multiplicative
+Patur:wheat(husked),Multiplicative
+Patur:sorgum(jawar),Multiplicative
+Patur:soybean,Multiplicative
+Telhara:wheat(husked),Multiplicative
+Telhara:sorgum(jawar),Additive
+Telhara:gram,Multiplicative
+Telhara:pigeon pea (tur),Additive
+Telhara:soybean,Multiplicative
+Amarawati:wheat(husked),Additive
+Amarawati:sorgum(jawar),Additive
+Amarawati:gram,Additive
+Amarawati:green gram,Multiplicative
+Amarawati:pigeon pea (tur),Multiplicative
+Amarawati:black gram,Multiplicative
+Amarawati:soybean,Multiplicative
+Anajngaon Surji:wheat(husked),Multiplicative
+Anajngaon Surji:sorgum(jawar),Multiplicative
+Anajngaon Surji:gram,Multiplicative
+Anajngaon Surji:pigeon pea (tur),Multiplicative
+Anajngaon Surji:soybean,Additive
+Anajngaon Surji:banana,Additive
+Anajngaon Surji:chillies(red),Additive
+Chandur Bajar:wheat(husked),Additive
+Chandur Bajar:gram,Additive
+Chandur Bajar:pigeon pea (tur),Multiplicative
+Chandur Bajar:soybean,Multiplicative
+Morshi:wheat(husked),Multiplicative
+Morshi:sorgum(jawar),Additive
+Morshi:gram,Additive
+Morshi:soybean,Additive
+Varud-Rajura Bazar:sorgum(jawar),Multiplicative
+Varud-Rajura Bazar:gram,Additive
+Varud-Rajura Bazar:soybean,Multiplicative
+Aurangabad:pomegranate,Additive
+Aurangabad:lemon,Additive
+Aurangabad:mosambi,Additive
+Aurangabad:papai,Additive
+Aurangabad:ginger (fresh),Additive
+Aurangabad:potato,Additive
+Aurangabad:ladies finger,Multiplicative
+Aurangabad:bottle gourd,Multiplicative
+Aurangabad:flower,Multiplicative
+Aurangabad:cluster bean,Additive
+Aurangabad:cucumber,Multiplicative
+Aurangabad:onion,Multiplicative
+Aurangabad:bitter gourd,Multiplicative
+Aurangabad:cabbage,Additive
+Aurangabad:garlic,Additive
+Aurangabad:capsicum,Multiplicative
+Aurangabad:shevga,Multiplicative
+Aurangabad:tomato,Multiplicative
+Aurangabad:brinjal,Multiplicative
+Aurangabad:green chilli,Multiplicative
+Gangapur:bajri,Additive
+Gangapur:wheat(husked),Multiplicative
+Gangapur:sorgum(jawar),Additive
+Gangapur:maize,Additive
+Gangapur:gram,Multiplicative
+Lasur Station:bajri,Additive
+Lasur Station:wheat(husked),Multiplicative
+Lasur Station:sorgum(jawar),Additive
+Lasur Station:maize,Multiplicative
+Lasur Station:gram,Additive
+Lasur Station:soybean,Multiplicative
+Lasur Station:onion,Multiplicative
+Ambejogai:gram,Multiplicative
+Ambejogai:pigeon pea (tur),Multiplicative
+Ambejogai:soybean,Additive
+Gevrai:bajri,Multiplicative
+Gevrai:wheat(husked),Additive
+Gevrai:sorgum(jawar),Multiplicative
+Gevrai:maize,Additive
+Gevrai:gram,Multiplicative
+Gevrai:pigeon pea (tur),Additive
+Gevrai:soybean,Multiplicative
+Kada:bajri,Additive
+Kada:wheat(husked),Multiplicative
+Kada:sorgum(jawar),Additive
+Kada:maize,Additive
+Kada:gram,Additive
+Kada:onion,Multiplicative
+Kille Dharur:bajri,Additive
+Kille Dharur:wheat(husked),Additive
+Kille Dharur:sorgum(jawar),Multiplicative
+Kille Dharur:pigeon pea (tur),Multiplicative
+Kille Dharur:soybean,Multiplicative
+Majalgaon:bajri,Multiplicative
+Majalgaon:wheat(husked),Multiplicative
+Majalgaon:sorgum(jawar),Multiplicative
+Majalgaon:gram,Multiplicative
+Majalgaon:pigeon pea (tur),Multiplicative
+Majalgaon:soybean,Multiplicative
+Parli-Vaijnath:bajri,Additive
+Parli-Vaijnath:sorgum(jawar),Additive
+Parli-Vaijnath:gram,Multiplicative
+Parli-Vaijnath:pigeon pea (tur),Additive
+Parli-Vaijnath:soybean,Additive
+Pavani:paddy-unhusked,Additive
+Buldhana:gram,Multiplicative
+Buldhana:soybean,Multiplicative
+Jalgaon Jamod:wheat(husked),Multiplicative
+Jalgaon Jamod:maize,Additive
+Jalgaon Jamod:soybean,Multiplicative
+Jalgaon Jamod-Aasalgaon:wheat(husked),Multiplicative
+Jalgaon Jamod-Aasalgaon:sorgum(jawar),Additive
+Jalgaon Jamod-Aasalgaon:maize,Additive
+Jalgaon Jamod-Aasalgaon:gram,Additive
+Jalgaon Jamod-Aasalgaon:pigeon pea (tur),Additive
+Jalgaon Jamod-Aasalgaon:soybean,Multiplicative
+Lonar:wheat(husked),Additive
+Lonar:gram,Multiplicative
+Lonar:soybean,Additive
+Malkapur:bajri,Multiplicative
+Malkapur:wheat(husked),Multiplicative
+Malkapur:sorgum(jawar),Multiplicative
+Malkapur:maize,Additive
+Malkapur:gram,Multiplicative
+Malkapur:green gram,Multiplicative
+Malkapur:pigeon pea (tur),Additive
+Malkapur:black gram,Additive
+Malkapur:soybean,Multiplicative
+Nandura:bajri,Multiplicative
+Nandura:wheat(husked),Multiplicative
+Nandura:sorgum(jawar),Multiplicative
+Nandura:maize,Multiplicative
+Nandura:gram,Multiplicative
+Nandura:pigeon pea (tur),Multiplicative
+Nandura:black gram,Multiplicative
+Nandura:soybean,Additive
+Nandura:sesamum,Additive
+Shegaon:wheat(husked),Additive
+Shegaon:sorgum(jawar),Additive
+Shegaon:maize,Multiplicative
+Shegaon:gram,Additive
+Shegaon:green gram,Additive
+Shegaon:pigeon pea (tur),Additive
+Shegaon:black gram,Multiplicative
+Shegaon:thymol/lovage,Additive
+Shegaon:soybean,Additive
+Shegaon:sesamum,Additive
+Shegaon:mustard,Multiplicative
+Mul:paddy-unhusked,Additive
+Nagbhid:paddy-unhusked,Multiplicative
+Dhule:bajri,Additive
+Dhule:wheat(husked),Multiplicative
+Dhule:sorgum(jawar),Additive
+Dhule:maize,Additive
+Dhule:cowpea,Multiplicative
+Dhule:gram,Multiplicative
+Dhule:matki,Multiplicative
+Dhule:green gram,Multiplicative
+Dhule:pigeon pea (tur),Additive
+Dhule:black gram,Multiplicative
+Dhule:ground nut pods (dry),Multiplicative
+Dhule:soybean,Multiplicative
+Dhule:onion,Additive
+Dhule:chillies(red),Multiplicative
+Dondaicha:bajri,Additive
+Dondaicha:wheat(husked),Additive
+Dondaicha:sorgum(jawar),Multiplicative
+Dondaicha:maize,Additive
+Dondaicha:gram,Multiplicative
+Dondaicha:ground nut pods (dry),Multiplicative
+Shirpur:bajri,Multiplicative
+Shirpur:wheat(husked),Multiplicative
+Shirpur:sorgum(jawar),Additive
+Shirpur:maize,Multiplicative
+Shirpur:gram,Multiplicative
+Shirpur:green gram,Additive
+Shirpur:black gram,Multiplicative
+Shirpur:ground nut pods (dry),Multiplicative
+Shirpur:soybean,Multiplicative
+Shirpur:onion,Additive
+Armori:paddy-unhusked,Additive
+Armori-Desaiganj:paddy-unhusked,Multiplicative
+Chamorshi:paddy-unhusked,Multiplicative
+Gadchiroli:paddy-unhusked,Additive
+Aamgaon:paddy-unhusked,Multiplicative
+Arjuni Morgaon:paddy-unhusked,Multiplicative
+Akhadabalapur:soybean,Additive
+Basmat:turmeric,Multiplicative
+Hingoli:gram,Additive
+Hingoli:pigeon pea (tur),Multiplicative
+Hingoli:soybean,Additive
+Kalamnuri:wheat(husked),Multiplicative
+Bhusaval:wheat(husked),Multiplicative
+Bhusaval:sorgum(jawar),Additive
+Chopda:bajri,Multiplicative
+Chopda:wheat(husked),Additive
+Chopda:sorgum(jawar),Additive
+Chopda:maize,Multiplicative
+Chopda:gram,Multiplicative
+Jalgaon:bajri,Multiplicative
+Jalgaon:wheat(husked),Multiplicative
+Jalgaon:sorgum(jawar),Additive
+Jalgaon:maize,Additive
+Jalgaon:gram,Multiplicative
+Jalgaon:black gram,Multiplicative
+Jalgaon:jaggery,Multiplicative
+Jalgaon:pomegranate,Additive
+Jalgaon:banana,Multiplicative
+Jalgaon:lemon,Additive
+Jalgaon:mosambi,Multiplicative
+Jalgaon:ginger (fresh),Multiplicative
+Jalgaon:potato,Additive
+Jalgaon:ladies finger,Multiplicative
+Jalgaon:chavli (shenga ),Multiplicative
+Jalgaon:flower,Multiplicative
+Jalgaon:cluster bean,Additive
+Jalgaon:cucumber,Additive
+Jalgaon:onion,Multiplicative
+Jalgaon:bitter gourd,Multiplicative
+Jalgaon:cabbage,Multiplicative
+Jalgaon:coriander  ,Additive
+Jalgaon:garlic,Multiplicative
+Jalgaon:methi (bhaji),Additive
+Jalgaon:spinach,Multiplicative
+Jalgaon:tomato,Additive
+Jalgaon:wal papdi,Additive
+Jalgaon:brinjal,Multiplicative
+Jalgaon:coriander (dry),Additive
+Jalgaon:green chilli,Multiplicative
+Raver:wheat(husked),Multiplicative
+Raver:sorgum(jawar),Multiplicative
+Raver:maize,Multiplicative
+Raver:gram,Multiplicative
+Bhokardan:wheat(husked),Additive
+Bhokardan:sorgum(jawar),Multiplicative
+Bhokardan:maize,Multiplicative
+Bhokardan:soybean,Multiplicative
+Bhokardan-Pimpalgaon Renu:wheat(husked),Additive
+Bhokardan-Pimpalgaon Renu:maize,Multiplicative
+Bhokardan-Pimpalgaon Renu:soybean,Additive
+Jafrabad:wheat(husked),Multiplicative
+Jafrabad:maize,Multiplicative
+Jafrabad:soybean,Multiplicative
+Jalna:bajri,Additive
+Jalna:wheat(husked),Additive
+Jalna:sorgum(jawar),Additive
+Jalna:maize,Additive
+Jalna:gram,Multiplicative
+Jalna:green gram,Multiplicative
+Jalna:pigeon pea (tur),Multiplicative
+Jalna:soybean,Multiplicative
+Jalna:jaggery,Additive
+Partur:wheat(husked),Additive
+Partur:sorgum(jawar),Additive
+Vadgaon Peth:ladies finger,Additive
+Vadgaon Peth:flower,Multiplicative
+Vadgaon Peth:bitter gourd,Additive
+Vadgaon Peth:cabbage,Multiplicative
+Vadgaon Peth:capsicum,Additive
+Vadgaon Peth:ridge gourd,Additive
+Vadgaon Peth:tomato,Additive
+Vadgaon Peth:brinjal,Multiplicative
+Ausa:wheat(husked),Additive
+Ausa:sorgum(jawar),Multiplicative
+Ausa:gram,Additive
+Ausa:pigeon pea (tur),Additive
+Ausa:safflower,Multiplicative
+Ausa:soybean,Multiplicative
+Ausa:sunflower,Multiplicative
+Latur:wheat(husked),Additive
+Latur:sorgum(jawar),Multiplicative
+Latur:gram,Additive
+Latur:green gram,Additive
+Latur:pigeon pea (tur),Additive
+Latur:soybean,Additive
+Udgir:gram,Additive
+Udgir:pigeon pea (tur),Multiplicative
+Udgir:soybean,Additive
+Mumbai:rice(paddy-hus),Multiplicative
+Mumbai:cowpea,Multiplicative
+Mumbai:split gram,Multiplicative
+Mumbai:split lentil,Multiplicative
+Mumbai:spilt gerrn gram,Multiplicative
+Mumbai:spilt pigeon pea,Additive
+Mumbai:split black gram,Additive
+Mumbai:green peas (dry),Multiplicative
+Mumbai:fennel,Additive
+Mumbai:coconut,Additive
+Mumbai:jaggery,Additive
+Mumbai:sugar,Additive
+Mumbai:pineapple,Additive
+Mumbai:chikoo,Multiplicative
+Mumbai:pomegranate,Multiplicative
+Mumbai:water melon,Additive
+Mumbai:mosambi,Multiplicative
+Mumbai:papai,Multiplicative
+Mumbai:guava,Additive
+Mumbai:apple,Additive
+Mumbai:orange,Multiplicative
+Mumbai:melon,Multiplicative
+Mumbai:arvi,Multiplicative
+Mumbai:potato,Multiplicative
+Mumbai:ladies finger,Multiplicative
+Mumbai:squash gourd,Multiplicative
+Mumbai:bottle gourd,Additive
+Mumbai:flower,Multiplicative
+Mumbai:carrot,Multiplicative
+Mumbai:curry leaves,Additive
+Mumbai:cucumber,Multiplicative
+Mumbai:onion,Multiplicative
+Mumbai:bitter gourd,Multiplicative
+Mumbai:cabbage,Additive
+Mumbai:capsicum,Additive
+Mumbai:snake gourd,Multiplicative
+Mumbai:sweet potato,Additive
+Mumbai:shevga,Multiplicative
+Mumbai:ridge gourd,Additive
+Mumbai:elephant root,Additive
+Mumbai:tomato,Multiplicative
+Mumbai:small gourd,Additive
+Mumbai:green-peas,Additive
+Mumbai:brinjal,Multiplicative
+Mumbai:ginger (dry),Multiplicative
+Mumbai:tamarind,Multiplicative
+Mumbai:coriander (dry),Additive
+Mumbai:turmeric,Additive
+Mumbai:cummin,Multiplicative
+Mumbai:cashewnuts,Multiplicative
+Mumbai:garlic,Multiplicative
+Mumbai:green chilli,Additive
+Mumbai:chillies(red),Multiplicative
+Mumbai:cardamom,Multiplicative
+Bhiwapur:paddy-unhusked,Multiplicative
+Bhiwapur:chillies(red),Multiplicative
+Kalmeshwar:flower,Additive
+Kalmeshwar:coriander  ,Additive
+Kalmeshwar:spinach,Multiplicative
+Kalmeshwar:tomato,Additive
+Kalmeshwar:brinjal,Multiplicative
+Kalmeshwar:green chilli,Multiplicative
+Kamthi:lemon,Multiplicative
+Kamthi:ginger (fresh),Multiplicative
+Kamthi:potato,Additive
+Kamthi:ladies finger,Multiplicative
+Kamthi:bottle gourd,Additive
+Kamthi:chavli (shenga ),Multiplicative
+Kamthi:chavli (pala),Multiplicative
+Kamthi:flower,Multiplicative
+Kamthi:cluster bean,Multiplicative
+Kamthi:cucumber,Multiplicative
+Kamthi:onion,Multiplicative
+Kamthi:bitter gourd,Multiplicative
+Kamthi:cabbage,Multiplicative
+Kamthi:pumpkin,Multiplicative
+Kamthi:coriander  ,Multiplicative
+Kamthi:garlic,Multiplicative
+Kamthi:methi (bhaji),Multiplicative
+Kamthi:capsicum,Additive
+Kamthi:raddish,Additive
+Kamthi:spinach,Multiplicative
+Kamthi:mint,Multiplicative
+Kamthi:tomato,Multiplicative
+Kamthi:small gourd,Additive
+Kamthi:brinjal,Multiplicative
+Kamthi:green chilli,Additive
+Katol:wheat(husked),Multiplicative
+Katol:gram,Multiplicative
+Katol:pigeon pea (tur),Multiplicative
+Katol:ground nut pods (dry),Additive
+Katol:soybean,Additive
+Mandhal:soybean,Multiplicative
+Mandhal:chillies(red),Multiplicative
+Nagpur:wheat(husked),Multiplicative
+Nagpur:rice(paddy-hus),Multiplicative
+Nagpur:gram,Multiplicative
+Nagpur:soybean,Multiplicative
+Nagpur:pineapple,Additive
+Nagpur:chikoo,Additive
+Nagpur:pomegranate,Multiplicative
+Nagpur:grapes,Additive
+Nagpur:banana,Multiplicative
+Nagpur:mosambi,Multiplicative
+Nagpur:papai,Additive
+Nagpur:apple,Multiplicative
+Nagpur:ginger (fresh),Additive
+Nagpur:potato,Multiplicative
+Nagpur:beet root,Multiplicative
+Nagpur:bottle gourd,Additive
+Nagpur:flower,Multiplicative
+Nagpur:cucumber,Multiplicative
+Nagpur:onion,Additive
+Nagpur:cabbage,Multiplicative
+Nagpur:pumpkin,Multiplicative
+Nagpur:coriander  ,Additive
+Nagpur:capsicum,Multiplicative
+Nagpur:spinach,Additive
+Nagpur:tomato,Additive
+Nagpur:small gourd,Additive
+Nagpur:brinjal,Multiplicative
+Nagpur:green chilli,Multiplicative
+Nagpur:chillies(red),Multiplicative
+Ramtek:wheat(husked),Multiplicative
+Ramtek:pigeon pea (tur),Additive
+Savner:wheat(husked),Multiplicative
+Savner:gram,Additive
+Savner:pigeon pea (tur),Additive
+Savner:soybean,Multiplicative
+Umared:wheat(husked),Multiplicative
+Umared:sorgum(jawar),Multiplicative
+Umared:rice(paddy-hus),Additive
+Umared:gram,Multiplicative
+Umared:other pulses,Additive
+Umared:pigeon pea (tur),Multiplicative
+Umared:linseed,Multiplicative
+Umared:soybean,Multiplicative
+Umared:coriander (dry),Additive
+Bhokar:wheat(husked),Additive
+Bhokar:gram,Multiplicative
+Bhokar:pigeon pea (tur),Multiplicative
+Bhokar:soybean,Additive
+Bhokar:sesamum,Additive
+Bhokar:turmeric,Additive
+Nanded:wheat(husked),Multiplicative
+Nanded:sorgum(jawar),Additive
+Nanded:pigeon pea (tur),Multiplicative
+Nanded:turmeric,Multiplicative
+Nandurbar:bajri,Additive
+Nandurbar:wheat(husked),Additive
+Nandurbar:sorgum(jawar),Multiplicative
+Nandurbar:maize,Multiplicative
+Nandurbar:gram,Multiplicative
+Nandurbar:pigeon pea (tur),Multiplicative
+Nandurbar:soybean,Multiplicative
+Nandurbar:cluster bean,Multiplicative
+Shahada:bajri,Multiplicative
+Shahada:wheat(husked),Additive
+Shahada:sorgum(jawar),Multiplicative
+Shahada:maize,Multiplicative
+Shahada:gram,Additive
+Chandvad:onion,Additive
+Devala:bajri,Additive
+Devala:wheat(husked),Multiplicative
+Devala:sorgum(jawar),Multiplicative
+Devala:maize,Additive
+Devala:gram,Multiplicative
+Devala:onion,Multiplicative
+Kalvan:bajri,Additive
+Kalvan:wheat(husked),Multiplicative
+Kalvan:maize,Multiplicative
+Kalvan:soybean,Additive
+Kalvan:onion,Multiplicative
+Lasalgaon:bajri,Multiplicative
+Lasalgaon:wheat(husked),Multiplicative
+Lasalgaon:sorgum(jawar),Multiplicative
+Lasalgaon:maize,Additive
+Lasalgaon:gram,Multiplicative
+Lasalgaon:soybean,Additive
+Lasalgaon:onion,Additive
+Malegaon:bajri,Multiplicative
+Malegaon:wheat(husked),Additive
+Malegaon:maize,Additive
+Malegaon:onion,Additive
+Manmad:bajri,Multiplicative
+Manmad:wheat(husked),Additive
+Manmad:maize,Additive
+Manmad:gram,Multiplicative
+Manmad:onion,Multiplicative
+Pimpalgaon (B)-Saykheda:onion,Additive
+Pimpalgaon Basawant:pomegranate,Multiplicative
+Pimpalgaon Basawant:onion,Multiplicative
+Sinner:bajri,Additive
+Sinner:wheat(husked),Additive
+Sinner:sorgum(jawar),Additive
+Sinner:maize,Additive
+Sinner:gram,Additive
+Sinner:onion,Multiplicative
+Yeola:bajri,Multiplicative
+Yeola:wheat(husked),Additive
+Yeola:maize,Multiplicative
+Yeola:gram,Additive
+Yeola:onion,Multiplicative
+Kalamb (Os):bajri,Additive
+Kalamb (Os):wheat(husked),Multiplicative
+Kalamb (Os):sorgum(jawar),Additive
+Kalamb (Os):maize,Multiplicative
+Kalamb (Os):gram,Multiplicative
+Kalamb (Os):green gram,Additive
+Kalamb (Os):pigeon pea (tur),Multiplicative
+Kalamb (Os):black gram,Multiplicative
+Kalamb (Os):safflower,Additive
+Kalamb (Os):soybean,Multiplicative
+Kalamb (Os):sunflower,Multiplicative
+Kalamb (Os):sesamum,Multiplicative
+Tuljapur:sorgum(jawar),Multiplicative
+Tuljapur:gram,Multiplicative
+Umarga:bajri,Additive
+Umarga:wheat(husked),Additive
+Umarga:sorgum(jawar),Additive
+Umarga:gram,Additive
+Umarga:pigeon pea (tur),Multiplicative
+Umarga:soybean,Additive
+Umarga:sunflower,Additive
+Jintur:wheat(husked),Multiplicative
+Jintur:sorgum(jawar),Multiplicative
+Jintur:soybean,Multiplicative
+Parbhani:wheat(husked),Multiplicative
+Parbhani:gram,Additive
+Parbhani:soybean,Additive
+Pathari:wheat(husked),Multiplicative
+Sailu:sorgum(jawar),Multiplicative
+Sailu:soybean,Multiplicative
+Indapur:pomegranate,Additive
+Indapur:onion,Multiplicative
+Junnar:onion,Additive
+Manchar:coriander  ,Additive
+Manchar:methi (bhaji),Multiplicative
+Manchar:shepu,Additive
+Nira:jaggery,Multiplicative
+Pune:bajri,Multiplicative
+Pune:wheat(husked),Multiplicative
+Pune:sorgum(jawar),Multiplicative
+Pune:maize,Additive
+Pune:rice(paddy-hus),Multiplicative
+Pune:gram,Additive
+Pune:lentil,Additive
+Pune:green gram,Multiplicative
+Pune:black gram,Multiplicative
+Pune:green peas (dry),Multiplicative
+Pune:gr.nut kernels,Additive
+Pune:ginger (fresh),Multiplicative
+Pune:potato,Multiplicative
+Pune:beet root,Multiplicative
+Pune:ladies finger,Multiplicative
+Pune:squash gourd,Multiplicative
+Pune:bottle gourd,Multiplicative
+Pune:chavli (shenga ),Additive
+Pune:flower,Multiplicative
+Pune:carrot,Additive
+Pune:cluster bean,Multiplicative
+Pune:ghevda,Multiplicative
+Pune:ghosali(bhaji),Additive
+Pune:curry leaves,Additive
+Pune:mango(raw),Multiplicative
+Pune:cucumber,Additive
+Pune:onion,Multiplicative
+Pune:bitter gourd,Additive
+Pune:cabbage,Additive
+Pune:pumpkin,Multiplicative
+Pune:garlic,Multiplicative
+Pune:capsicum,Multiplicative
+Pune:snake gourd,Multiplicative
+Pune:pavtta,Additive
+Pune:sweet potato,Multiplicative
+Pune:shevga,Multiplicative
+Pune:ridge gourd,Multiplicative
+Pune:elephant root,Additive
+Pune:tomato,Additive
+Pune:small gourd,Multiplicative
+Pune:green-peas,Multiplicative
+Pune:wal bhaji,Additive
+Pune:wal papdi,Multiplicative
+Pune:walvad,Additive
+Pune:brinjal,Additive
+Pune:tamarind,Additive
+Pune:coriander (dry),Multiplicative
+Pune:green chilli,Multiplicative
+Pune-Manjri:ladies finger,Multiplicative
+Pune-Manjri:bottle gourd,Multiplicative
+Pune-Manjri:chavli (pala),Additive
+Pune-Manjri:flower,Multiplicative
+Pune-Manjri:cluster bean,Additive
+Pune-Manjri:cucumber,Multiplicative
+Pune-Manjri:kanda pat,Multiplicative
+Pune-Manjri:bitter gourd,Additive
+Pune-Manjri:coriander  ,Multiplicative
+Pune-Manjri:methi (bhaji),Additive
+Pune-Manjri:raddish,Additive
+Pune-Manjri:spinach,Multiplicative
+Pune-Manjri:shepu,Multiplicative
+Pune-Manjri:ridge gourd,Multiplicative
+Pune-Manjri:tomato,Multiplicative
+Pune-Manjri:walvad,Additive
+Pune-Manjri:brinjal,Multiplicative
+Pune-Manjri:green chilli,Additive
+Pune-Pimpri:beet root,Multiplicative
+Pune-Pimpri:ladies finger,Multiplicative
+Pune-Pimpri:bottle gourd,Multiplicative
+Pune-Pimpri:flower,Additive
+Pune-Pimpri:ghevda,Multiplicative
+Pune-Pimpri:cucumber,Multiplicative
+Pune-Pimpri:onion,Multiplicative
+Pune-Pimpri:bitter gourd,Multiplicative
+Pune-Pimpri:cabbage,Multiplicative
+Pune-Pimpri:tomato,Multiplicative
+Pune-Pimpri:brinjal,Multiplicative
+Pune-Pimpri:green chilli,Additive
+Shirur:bajri,Multiplicative
+Shirur:wheat(husked),Additive
+Shirur:sorgum(jawar),Additive
+Shirur:maize,Multiplicative
+Shirur:gram,Additive
+Shirur:indian bean,Multiplicative
+Shirur:ground nut pods (dry),Additive
+Alibag:rice(paddy-hus),Multiplicative
+Karjat (Raigad):paddy-unhusked,Multiplicative
+Karjat (Raigad):rice(paddy-hus),Multiplicative
+Mangaon(Bhadav):nachani,Multiplicative
+Mangaon(Bhadav):nagali,Multiplicative
+Mangaon(Bhadav):rice(paddy-hus),Additive
+Pen:paddy-unhusked,Multiplicative
+Pen:rice(paddy-hus),Additive
+Roha:paddy-unhusked,Multiplicative
+Ratanagari:ginger (fresh),Additive
+Ratanagari:ladies finger,Additive
+Ratanagari:flower,Additive
+Ratanagari:cucumber,Additive
+Ratanagari:bitter gourd,Additive
+Ratanagari:cabbage,Additive
+Ratanagari:maize(corn.),Multiplicative
+Ratanagari:capsicum,Multiplicative
+Ratanagari:tomato,Multiplicative
+Ratanagari:green-peas,Multiplicative
+Ratanagari:brinjal,Multiplicative
+Ratanagari:green chilli,Multiplicative
+Sangali:bajri,Additive
+Sangali:wheat(husked),Multiplicative
+Sangali:sorgum(jawar),Multiplicative
+Sangali:wheat(unhusked),Multiplicative
+Sangali:lentil,Multiplicative
+Sangali:matki,Multiplicative
+Sangali:green gram,Multiplicative
+Sangali:soybean,Multiplicative
+Sangali:jaggery,Additive
+Sangali:turmeric,Additive
+Tasgaon:bedana,Multiplicative
+Karad:chikoo,Additive
+Karad:pomegranate,Multiplicative
+Karad:banana,Additive
+Karad:mosambi,Multiplicative
+Karad:apple,Multiplicative
+Karad:ginger (fresh),Multiplicative
+Karad:potato,Multiplicative
+Karad:ladies finger,Additive
+Karad:bottle gourd,Additive
+Karad:flower,Multiplicative
+Karad:cluster bean,Multiplicative
+Karad:cucumber,Multiplicative
+Karad:onion,Additive
+Karad:bitter gourd,Multiplicative
+Karad:cabbage,Additive
+Karad:garlic,Multiplicative
+Karad:capsicum,Multiplicative
+Karad:pavtta,Multiplicative
+Karad:shevga,Multiplicative
+Karad:ridge gourd,Multiplicative
+Karad:tomato,Multiplicative
+Karad:brinjal,Additive
+Karad:green chilli,Additive
+Koregaon:ghevda seed,Additive
+Koregaon:gram,Multiplicative
+Koregaon:onion,Multiplicative
+Lonand:bajri,Multiplicative
+Lonand:wheat(husked),Additive
+Lonand:sorgum(jawar),Multiplicative
+Lonand:maize,Multiplicative
+Lonand:gram,Multiplicative
+Lonand:onion,Multiplicative
+Patan:ginger (fresh),Additive
+Patan:flower,Additive
+Patan:cabbage,Multiplicative
+Patan:tomato,Additive
+Patan:brinjal,Additive
+Patan:green chilli,Multiplicative
+Satara:ginger (fresh),Multiplicative
+Satara:potato,Multiplicative
+Satara:ladies finger,Additive
+Satara:bottle gourd,Multiplicative
+Satara:flower,Multiplicative
+Satara:cluster bean,Multiplicative
+Satara:cucumber,Multiplicative
+Satara:onion,Additive
+Satara:bitter gourd,Multiplicative
+Satara:cabbage,Multiplicative
+Satara:capsicum,Additive
+Satara:pavtta,Additive
+Satara:tomato,Multiplicative
+Satara:brinjal,Multiplicative
+Satara:green chilli,Multiplicative
+Vaduj:sorgum(jawar),Additive
+Vaduj:maize,Multiplicative
+Vaduj:gram,Multiplicative
+Vai:pavata,Multiplicative
+Vai:ginger (fresh),Additive
+Vai:ladies finger,Multiplicative
+Vai:bottle gourd,Multiplicative
+Vai:flower,Multiplicative
+Vai:cucumber,Multiplicative
+Vai:cabbage,Multiplicative
+Vai:tomato,Multiplicative
+Vai:brinjal,Multiplicative
+Vai:green chilli,Additive
+Akluj:maize,Additive
+Akluj:chikoo,Additive
+Akluj:water melon,Additive
+Akluj:potato,Multiplicative
+Akluj:ladies finger,Additive
+Akluj:onion,Multiplicative
+Akluj:bitter gourd,Multiplicative
+Akluj:cabbage,Multiplicative
+Akluj:garlic,Multiplicative
+Akluj:shevga,Multiplicative
+Akluj:tomato,Multiplicative
+Akluj:brinjal,Additive
+Akluj:chillies(red),Additive
+Barshi:bajri,Multiplicative
+Barshi:paddy-unhusked,Additive
+Barshi:wheat(husked),Multiplicative
+Barshi:sorgum(jawar),Additive
+Barshi:maize,Multiplicative
+Barshi:gram,Multiplicative
+Barshi:green gram,Multiplicative
+Barshi:pigeon pea (tur),Additive
+Barshi:black gram,Multiplicative
+Barshi:lemon,Multiplicative
+Barshi:ladies finger,Multiplicative
+Barshi:flower,Multiplicative
+Barshi:cluster bean,Multiplicative
+Barshi:cucumber,Multiplicative
+Barshi:bitter gourd,Multiplicative
+Barshi:cabbage,Multiplicative
+Barshi:capsicum,Multiplicative
+Barshi:ridge gourd,Additive
+Barshi:tomato,Multiplicative
+Barshi:brinjal,Multiplicative
+Barshi:turmeric,Additive
+Barshi:green chilli,Multiplicative
+Barshi:fodder,Multiplicative
+Barshi-Vairag:sorgum(jawar),Additive
+Barshi-Vairag:ground nut pods (dry),Additive
+Dudhani:wheat(husked),Additive
+Dudhani:sorgum(jawar),Multiplicative
+Dudhani:gram,Multiplicative
+Dudhani:pigeon pea (tur),Multiplicative
+Kurdwadi:wheat(husked),Additive
+Kurdwadi:sorgum(jawar),Multiplicative
+Kurdwadi:maize,Additive
+Kurdwadi:gram,Multiplicative
+Kurdwadi-Modnimb:wheat(husked),Additive
+Kurdwadi-Modnimb:sorgum(jawar),Additive
+Kurdwadi-Modnimb:maize,Multiplicative
+Kurdwadi-Modnimb:gram,Multiplicative
+Mangalwedha:wheat(husked),Multiplicative
+Mangalwedha:sorgum(jawar),Multiplicative
+Mangalwedha:maize,Multiplicative
+Mangalwedha:gram,Additive
+Mangalwedha:ladies finger,Multiplicative
+Mangalwedha:cucumber,Additive
+Mangalwedha:bitter gourd,Additive
+Mangalwedha:ridge gourd,Multiplicative
+Mangalwedha:tomato,Additive
+Mangalwedha:brinjal,Additive
+Mangalwedha:green chilli,Multiplicative
+Mohol:wheat(husked),Additive
+Mohol:sorgum(jawar),Multiplicative
+Mohol:maize,Multiplicative
+Pandharpur:sorgum(jawar),Multiplicative
+Pandharpur:pomegranate,Additive
+Pandharpur:banana,Additive
+Pandharpur:onion,Multiplicative
+Pandharpur:cabbage,Additive
+Pandharpur:capsicum,Multiplicative
+Pandharpur:tomato,Multiplicative
+Pandharpur:brinjal,Multiplicative
+Pandharpur:green chilli,Additive
+Sangola:pomegranate,Additive
+Solapur:wheat(husked),Multiplicative
+Solapur:sorgum(jawar),Additive
+Solapur:rice(paddy-hus),Multiplicative
+Solapur:gram,Multiplicative
+Solapur:matki,Multiplicative
+Solapur:pigeon pea (tur),Additive
+Solapur:green peas (dry),Multiplicative
+Solapur:jaggery,Multiplicative
+Solapur:chikoo,Multiplicative
+Solapur:pomegranate,Multiplicative
+Solapur:banana,Multiplicative
+Solapur:lemon,Multiplicative
+Solapur:papai,Multiplicative
+Solapur:potato,Multiplicative
+Solapur:ladies finger,Multiplicative
+Solapur:carrot,Multiplicative
+Solapur:cluster bean,Multiplicative
+Solapur:cucumber,Additive
+Solapur:onion,Multiplicative
+Solapur:bitter gourd,Additive
+Solapur:cabbage,Multiplicative
+Solapur:capsicum,Multiplicative
+Solapur:ridge gourd,Multiplicative
+Solapur:tomato,Multiplicative
+Solapur:brinjal,Multiplicative
+Solapur:garlic,Multiplicative
+Solapur:green chilli,Multiplicative
+Solapur:chillies(red),Additive
+Bhivandi:wheat(husked),Multiplicative
+Bhivandi:rice(paddy-hus),Multiplicative
+Bhivandi:potato,Multiplicative
+Bhivandi:other vegetables,Additive
+Bhivandi:onion,Additive
+Murbad:paddy-unhusked,Multiplicative
+Murbad:ladies finger,Multiplicative
+Murbad:bottle gourd,Multiplicative
+Murbad:ghosali(bhaji),Additive
+Murbad:bitter gourd,Additive
+Murbad:tomato,Multiplicative
+Murbad:brinjal,Multiplicative
+Shahapur:ladies finger,Additive
+Shahapur:chavli (shenga ),Multiplicative
+Shahapur:ghosali(bhaji),Additive
+Shahapur:cucumber,Multiplicative
+Shahapur:bitter gourd,Additive
+Hinganghat:gram,Multiplicative
+Hinganghat:pigeon pea (tur),Multiplicative
+Hinganghat:soybean,Additive
+Karanja:wheat(husked),Multiplicative
+Karanja:sorgum(jawar),Multiplicative
+Karanja:gram,Additive
+Karanja:pigeon pea (tur),Multiplicative
+Karanja:black gram,Additive
+Karanja:soybean,Additive
+Mangrulpeer:wheat(husked),Additive
+Mangrulpeer:sorgum(jawar),Multiplicative
+Mangrulpeer:gram,Multiplicative
+Mangrulpeer:pigeon pea (tur),Multiplicative
+Mangrulpeer:black gram,Multiplicative
+Mangrulpeer:soybean,Additive
+Manora:soybean,Multiplicative
+Risod:gram,Multiplicative
+Risod:soybean,Multiplicative
+Washim:wheat(husked),Multiplicative
+Washim:sorgum(jawar),Additive
+Washim:gram,Multiplicative
+Washim:green gram,Additive
+Washim:pigeon pea (tur),Multiplicative
+Washim:black gram,Multiplicative
+Washim:soybean,Multiplicative
+Babhulgaon:soybean,Additive
+Digras:wheat(husked),Additive
+Digras:gram,Multiplicative
+Digras:pigeon pea (tur),Additive
+Digras:soybean,Multiplicative
+Ner Parasopant:soybean,Multiplicative
+Umarkhed:soybean,Multiplicative
+Umarkhed-Danki:wheat(husked),Multiplicative
+Umarkhed-Danki:soybean,Multiplicative
+Yeotmal:pigeon pea (tur),Multiplicative
+Yeotmal:soybean,Additive
